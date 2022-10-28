@@ -1,0 +1,50 @@
+.logo img{
+    width: 100px;
+}
+.redes i,
+.redes svg{
+    font-size: 30px;
+    margin: 0 10px;
+}
+.registro{
+    width: 400px;
+    background: rgb(204, 225, 236);
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    color: rgb(21, 23, 163);
+}
+.registro h3{
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+.cuadro{
+    width: 100%;
+    background: rgb(186, 231, 228);
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+.registro p{
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+}
+.registro a{
+    color: rgb(80, 46, 46);
+    text-decoration: none;
+}
+.registro a:hover{
+    color: rgb(10, 41, 69);
+    text-decoration: underline;
+}
+.registro .cuadro{
+    width: 100%;
+    background: rgb(169, 177, 197);
+}
+.registro .boton{
+    width: 100%;
+    background: skyblue;
+}
